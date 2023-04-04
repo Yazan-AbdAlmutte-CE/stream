@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="java-js" type="repository">
+    <properties maven-id="com.eclipsesource.minimal-json:minimal-json:0.9.5">
+      <exclude>
+        <dependency maven-id="com.eclipsesource.minimal-json:minimal-json" />
+      </exclude>
+    </properties>
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
